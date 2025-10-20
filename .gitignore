@@ -1,0 +1,27 @@
+# vivados project files
+*.xpr
+*.xpr.orig
+*.runs/
+*.sim/
+*.cache/
+*.data/
+*.gen/
+*.srcs/
+*.hw/
+*.ip_user_files/
+*_behav.wcfg
+*.jou
+*.log
+*.str
+*_synth_*
+*_impl_*
+webtalk*.html
+webtalk*.xml
+*.pid
+.Xil/
+
+# sim output files
+*.vvp
+*.vcd
+
+/adder_test/

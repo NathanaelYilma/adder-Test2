@@ -33,15 +33,14 @@ module prefix #(parameter N = 32) (
         end
         
     endgenerate
-
 assign c[0] = cin;
     genvar k;
     generate
        for (k = 0; k < N; k = k + 1) begin
-           assign c[k+1] = g_stage[$clog2(N)][k];
+
+          assign c[k+1] = g_stage[$clog2(N)][k] | (p_stage[$clog2(N)][k] & cin);
        end
     endgenerate
-    
     assign s = (a^b)^c[N-1:0];
     assign cout = c[N];
     

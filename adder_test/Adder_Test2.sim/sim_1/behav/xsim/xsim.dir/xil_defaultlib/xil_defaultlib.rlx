@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/yilm2330/adder-Test2/adder_rtl/cla.sv,1760918575,systemVerilog,,C:/Users/yilm2330/adder-Test2/adder_rtl/cla_4bit.sv,,cla,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_rtl/cla_4bit.sv,1760918015,systemVerilog,,C:/Users/yilm2330/adder-Test2/adder_rtl/fulladder.sv,,cla_4bit,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_rtl/fulladder.sv,1760991494,systemVerilog,,C:/Users/yilm2330/adder-Test2/adder_rtl/pg_combine.sv,,fulladder,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_rtl/pg_combine.sv,1760918157,systemVerilog,,C:/Users/yilm2330/adder-Test2/adder_rtl/prefix.sv,,pg_combine,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_rtl/prefix.sv,1760991987,systemVerilog,,C:/Users/yilm2330/adder-Test2/adder_rtl/rca.sv,,prefix,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_rtl/rca.sv,1760918156,systemVerilog,,C:/Users/yilm2330/adder-Test2/tb/tb_adders.sv,,rca,,,,,,,,
+C:/Users/yilm2330/adder-Test2/adder_test/Adder_Test2.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/yilm2330/adder-Test2/tb/tb_adders.sv,1761155943,systemVerilog,,,,tb_adders,,,,,,,,

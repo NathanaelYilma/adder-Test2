@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct 20 18:00:04 2025
+# Process ID: 25848
+# Current directory: C:/Users/yilm2330/adder-Test2/adder_test
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25792 C:\Users\yilm2330\adder-Test2\adder_test\Adder_Test2.xpr
+# Log file: C:/Users/yilm2330/adder-Test2/adder_test/vivado.log
+# Journal file: C:/Users/yilm2330/adder-Test2/adder_test\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yilm2330/adder-Test2/adder_test/Adder_Test2.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/yilm2330/Adder_Test2' since last save.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/pg_combine.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/pg_combine.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/prefix.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/prefix.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/cla_4bit.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/cla_4bit.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/cla.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/cla.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/fulladder.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/fulladder.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/adder_rtl/rca.sv'; using path 'C:/Users/yilm2330/adder-Test2/adder_rtl/rca.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/adder-Test2/tb/tb_adders.sv'; using path 'C:/Users/yilm2330/adder-Test2/tb/tb_adders.sv' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/yilm2330/adder-Test2/Downloads/tb_adders_behav.wcfg'; using path 'C:/Users/yilm2330/Downloads/tb_adders_behav.wcfg' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+INFO: [filemgmt 56-1] IPUserFilesDir: Directory not found as 'C:/Users/yilm2330/adder-Test2/adder_test/Adder_Test2.ip_user_files'; using path 'C:/Users/yilm2330/Adder_Test2/Adder_Test2.ip_user_files' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 20 18:05:54 2025...

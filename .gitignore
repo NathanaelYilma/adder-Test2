@@ -23,3 +23,5 @@ webtalk*.xml
 # sim output files
 *.vvp
 *.vcd
+
+/adder_test/

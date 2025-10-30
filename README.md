@@ -19,10 +19,10 @@ This is my project for Exam 2 and here I made three different adders RCA, CLA, a
 
 ## How to run the simulation
 
-1.  Open the project in vivado (its in the `adder_test` folder).
-2.  Make sure `tb_adders.sv` is the top sim file.
-3.  Then click the run simulation button (Behavioral Simulation).
-4.  Look at the TCL console and should test 8, 16, 32, 64 bits and say "testing done" at the end.
+You can now just double click on `tb/run_sim.bat` then it should just run automatically.
+Note: This will not work outside of this computer but if u ever want to just change the paths so it matches
+      whatever is inside the `run_sim.bat` script.
+
 
 ## How to get the synthesis numbers
 

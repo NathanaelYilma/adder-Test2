@@ -26,6 +26,11 @@ Note: This will not work outside of this computer but if u ever want to just cha
 
 ## How to get the synthesis numbers
 
+Here is how to manually do it:
 1.  Basically just followed the steps in `synth/measure.sh`.
 2.  For each adder and size: Set it as top, then set N in settings, then run synthesis, then check the reports for LUTs and delays.
 3.  All the numbers I got are in `results/results.md`.
+
+!!!HOWEVER!!! I hate this exam so much I can't accept defeat so I have a measure.bat script that kinda works. I will not submit because I do 
+not understand it because chatgpt wrote all of it. However if you really want to see it I'll demonstrate it but I don't understand it. :)
+
